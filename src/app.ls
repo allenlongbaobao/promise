@@ -1,5 +1,4 @@
 require! ['express', 'http', './promise-primeval', './promise-vow']
-Event-emitter = (require 'events').Event-emitter
 
 app = express!
 
